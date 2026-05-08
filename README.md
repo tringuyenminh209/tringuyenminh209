@@ -1,62 +1,91 @@
-<h1 align="center">はじめまして、グエン・ミン・チです 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>AI/ML · Web · Mobile · Backend に情熱を持つ Developer</em>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Nguy%E1%BB%85n+Minh+Tr%C3%AD+%F0%9F%91%8B;Full-Stack+%26+Cloud+Engineer;Building+Cloud+Cost+SaaS+in+Japan+%F0%9F%97%BE%EF%B8%8F" alt="Typing SVG" />
 
----
-
-## 自己紹介
-
-- 名前：**グエン ミン チ**（Nguyễn Minh Trí）
-- メール：tringuyenminh209@gmail.com
-- **AI/Machine Learning** と多プラットフォーム開発を組み合わせた実用的なアプリケーションの構築に取り組んでいます。
-- バックエンドシステムからモバイルアプリまで、幅広い技術を学ぶことが大好きです。
-
----
-
-## スキル・使用技術
+<br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=tringuyenminh209&color=58A6FF&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/tringuyenminh209?style=flat-square&color=58A6FF&label=Followers" />
+</p>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🏢 Building **Cloudeca** — Cloud Cost & GreenOps Micro-SaaS for Japanese SMEs (AWS / Azure)
+- 🌏 Based in **Yamaguchi, Japan** 🇯🇵 · Vietnamese 🇻🇳
+- ⚡ Full-stack: **Next.js · Hono · Go · Flutter · Python**
+- 🤖 AI/ML integration into real-world B2B products
+- 📬 tringuyenminh209@gmail.com
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+<p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
 </p>
 
-**専門分野：**
-- AI / Machine Learning（線形回帰、画像分類）
-- Web 開発（PHP、TypeScript）
-- バックエンド（Go、REST API）
-- モバイル開発（Kotlin / Android）
-- FinOps / DevOps
+**Frontend / Mobile**
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat&logoColor=white"/>
+</p>
+
+**Backend / Infra**
+
+<p>
+  <img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+</p>
 
 ---
 
-## 主なプロジェクト
+## 🚀 Projects
 
-| プロジェクト | 説明 | 技術 |
+| Project | Description | Stack |
 |---|---|---|
-| [ShokuGuard-AI](https://github.com/tringuyenminh209/ShokuGuard-AI) | 食品安全に関する AI アプリ | Shell, AI |
-| [LoGi-Go](https://github.com/tringuyenminh209/LoGi-Go) | 物流管理アプリ | TypeScript |
-| [manabi-link](https://github.com/tringuyenminh209/manabi-link) | 学習プラットフォーム | TypeScript |
-| [mimamori](https://github.com/tringuyenminh209/mimamori) | モバイルアプリ | Kotlin |
-| [FinOps](https://github.com/tringuyenminh209/FinOps) | 財務管理 / FinOps | TypeScript |
+| [Cloudeca / FinOps](https://github.com/tringuyenminh209/FinOps) | Cloud Cost & GreenOps Micro-SaaS — CO₂ tracking, Night-Watch scheduler, AI cost advisor for Japanese SMEs | Next.js · Hono · Drizzle · AWS |
+| [ShokuGuard-AI](https://github.com/tringuyenminh209/ShokuGuard-AI) | Food safety AI application | Python · AI/ML |
+| [LoGi-Go](https://github.com/tringuyenminh209/LoGi-Go) | Logistics management platform | TypeScript · Go |
+| [manabi-link](https://github.com/tringuyenminh209/manabi-link) | Learning management platform | TypeScript |
+| [mimamori](https://github.com/tringuyenminh209/mimamori) | Monitoring mobile app | Kotlin · Android |
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tringuyenminh209&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tringuyenminh209&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tringuyenminh209&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tringuyenminh209&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tringuyenminh209&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 連絡先
+## 📫 Contact
 
 <p>
   <a href="mailto:tringuyenminh209@gmail.com">

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Nguy%E1%BB%85n+Minh+Tr%C3%AD+%F0%9F%91%8B;Full-Stack+%26+Cloud+Engineer;Building+B2B+SaaS+for+Japan+%F0%9F%97%BE%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Nguy%E1%BB%85n+Minh+Tr%C3%AD+%F0%9F%91%8B;Full-Stack+Developer+in+Japan;Building+AI%2C+Web+%26+Cloud+Projects" alt="Typing SVG" />
 
 <br/>
 
@@ -15,11 +15,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 3rd year student at **ECCコンピュータ専門学校** (Osaka) 🇯🇵 · Vietnamese 🇻🇳
-- 🏢 Building **Cloudeca** — Cloud Cost & GreenOps Micro-SaaS for Japanese SMEs (AWS / Azure)
-- ⚡ Full-stack: **Next.js · Hono · Go · Laravel · Flutter · Python**
-- 🤖 AI/ML integration + logistics systems + language learning apps
-- 📬 tringuyenminh209@gmail.com
+- 🎓 3rd year student at **ECCコンピュータ専門学校** in Osaka, Japan 🇯🇵
+- 🇻🇳 Vietnamese developer building products for learning, operations, and AI-assisted workflows
+- ⚡ Full-stack focus: **Next.js · React · Laravel · Go · Flutter · Python**
+- ☁️ Exploring cloud systems, route optimization, computer vision, and practical AI integration
+- 📬 Reach me at **tringuyenminh209@gmail.com**
 
 ---
 
@@ -60,17 +60,26 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-| Project | Description | Stack |
+### Live Products
+
+| Product | What it does | Link |
 |---|---|---|
-| [Cloudeca / FinOps](https://github.com/tringuyenminh209/FinOps) 🔒 | Cloud Cost & GreenOps Micro-SaaS for Japanese SMEs — Night-Watch scheduler, CO₂ tracking, AI cost advisor | Next.js · Hono · Drizzle · AWS |
-| [AsahiRoute](https://github.com/tringuyenminh209/AsahiRoute) | Newspaper delivery route optimizer for Asahi Shimbun — multilingual driver PWA + admin dashboard + OR-Tools TSP | Laravel · React · Python · FastAPI |
-| [Gentsuki](https://github.com/tringuyenminh209/Gentsuki) 🔒 | Japanese moped (原付) license theory exam practice app for Vietnamese in Japan — bilingual JP/VI | Laravel 12 · React · Vite |
-| [LoGi-Go](https://github.com/tringuyenminh209/LoGi-Go) 🔒 | Distributed logistics middleware for Japan — FAX→OCR ingestion, IoT GPS H3 matching, earthquake auto-response | Go · gRPC · Redis · PostGIS |
-| [JLPT](https://github.com/tringuyenminh209/JLPT) 🔒 | Japanese proficiency test practice — vocabulary, grammar, kanji, listening, reading, mock exams with SRS | Hono · React · Supabase |
-| [ShokuGuard-AI](https://github.com/tringuyenminh209/ShokuGuard-AI) | Food safety AI inspection application | Python · AI/ML |
-| [mimamori](https://github.com/tringuyenminh209/mimamori) | Remote monitoring mobile app | Kotlin · Android |
+| **Cloudeca** | Cloud cost and GreenOps product for tracking and improving cloud usage | [cloudeca.tech](https://cloudeca.tech) |
+| **Gentsuki** | Japanese moped license theory practice for Vietnamese learners in Japan | [gentsuki.site](https://gentsuki.site) |
+| **JLPT Study** | Japanese language practice for JLPT learners | [jlptstudy.online](https://jlptstudy.online) |
+| **LingoGlass** | Language-learning project currently being developed and deployed online | [lingoglass.online](https://lingoglass.online) |
+
+### Public Repositories
+
+| Project | What it does | Stack |
+|---|---|---|
+| [ToDoKizamu](https://github.com/tringuyenminh209/ToDoKizamu) | AI-assisted task app with a Laravel backend, Next.js frontend, mobile code, and Docker setup | Laravel 12 · Next.js · Android · Docker |
+| [AsahiRoute](https://github.com/tringuyenminh209/AsahiRoute) | Newspaper delivery route optimization system with a driver app and management dashboard for ASA workflows | Laravel · React · Python · FastAPI |
+| [ShokuGuard-AI](https://github.com/tringuyenminh209/ShokuGuard-AI) | Real-time restaurant risk detection pipeline using camera video analysis and staff alerts | Python · YOLO · MediaPipe · WebSocket |
+| [from-zero-to-junior](https://github.com/tringuyenminh209/from-zero-to-junior) | Vietnamese study roadmap for rebuilding core IT skills across web, database, cloud, AI, and systems topics | HTML · Markdown |
+| [mimamori](https://github.com/tringuyenminh209/mimamori) | Android remote monitoring project | Kotlin · Android |
 
 ---
 

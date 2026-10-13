@@ -6,66 +6,23 @@
 **暮らしと仕事の課題を、使えるプロダクトへ。**  
 Building practical products for everyday life and work in Japan.
 
-[Projects](#selected-projects) · [About](#about) · [Stack](#toolbox) · [Email](mailto:tringuyenminh209@gmail.com)
+[Project](#featured-project) · [About](#about) · [Stack](#toolbox) · [Email](mailto:tringuyenminh209@gmail.com)
 
 </div>
 
 ---
 
-## Selected projects
+## Featured project
 
-日本での学習・業務・コミュニケーションを支えるプロダクトを開発しています。  
-A selection of public projects across web, mobile, and connected devices.
-
-### 01 / LingoGlass AR
-**言葉の壁を越える、リアルタイム字幕。**
-
-音声を翻訳し、スマートフォンから BLE 経由でウェアラブル端末に字幕を届けるプロジェクト。  
-A real-time subtitle and translation eyewear prototype, connecting speech, mobile, and embedded hardware.
-
-`Flutter` `FastAPI` `WebSocket` `ESP32-S3` `AWS`
-
-[Explore repository →](https://github.com/tringuyenminh209/LingoGlassAR)
-
-### 02 / ToDoKizamu
-**大きなタスクを、今日の一歩に。**
-
-AI によるタスク分解、集中モード、日々の計画を備えた、日本語・ベトナム語・英語対応のタスクアプリ。  
-An AI-assisted task app with task breakdown, focus sessions, and daily planning.
-
-`Next.js` `Laravel` `Kotlin` `MySQL` `Redis` `Docker`
-
-[Explore repository →](https://github.com/tringuyenminh209/ToDoKizamu)
-
-### 03 / 献血ボランティア
+### 献血ボランティア / kenketsu-web
 **参加する学生にも、運営する先生にも。**
 
 ECC 社会貢献センターの献血イベント向けに、告知・参加申込・アンケート・管理画面をまとめた多言語サイト。  
-A multilingual event website with registration, surveys, and an organizer dashboard.
+A multilingual blood donation event website with registration, surveys, and an organizer dashboard.
 
 `React` `TypeScript` `Supabase` `Tailwind CSS` `Vercel`
 
 [Explore repository →](https://github.com/tringuyenminh209/kenketsu-web)
-
-### 04 / AsahiRoute
-**新聞配達の流れを、見えるかたちに。**
-
-新聞販売店向けの配達員 UI と管理ダッシュボード。配達ルートや業務情報を扱うフロントエンドプロジェクト。  
-A frontend project for newspaper delivery workflows, with driver and management interfaces.
-
-`React` `TypeScript` `Vite` `Leaflet`
-
-[Explore repository →](https://github.com/tringuyenminh209/AsahiRoute)
-
-<details>
-<summary><strong>More to explore / その他のプロジェクト</strong></summary>
-
-<br>
-
-**[BJT J1](https://github.com/tringuyenminh209/bjt-j1-app)** — ビジネス日本語の学習用 Flutter アプリ。オフライン学習と復習を中心に開発。  
-A personal business Japanese study app with offline learning and spaced repetition. The public repository contains source code; learning content is separate.
-
-</details>
 
 ---
 
